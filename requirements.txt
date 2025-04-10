@@ -1,0 +1,4 @@
+sounddevice
+numpy
+tk
+resampy
